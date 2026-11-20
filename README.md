@@ -20,3 +20,8 @@ to see data results.
 - `practice_notebook.ipynb` - the main file
 - `README.md` - this file
 - `Change in file` - Added text
+
+## Lessons Learned
+
+- I learned how to utilize the diff feature in Github.
+- I was able to utilize a new repo setup technique than the one I have been using for years.
